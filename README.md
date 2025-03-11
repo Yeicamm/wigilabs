@@ -1,6 +1,7 @@
 # wigilabs
 # Documentación de la prueba: Wigilabs
 # Se adjunta coleccion de postman para pruebas
+Para la prueba debera ejecutar primero la petición de signup para la creación, luego ahi si empieza a interactuar con el token para hacer uso del microservicio.
 ### Descripción General
 Este proyecto es una API desarrollada en Spring Boot 3.4.2 que permite la gestión de productos, con almacenamiento en PostgreSQL corriendo en Docker. La API proporciona funcionalidades para crear, actualizar, eliminar y consultar productos, además de tener una buena implementación de seguridad.
 
